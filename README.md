@@ -11,3 +11,15 @@ Power BI dashboard to evaluate SDG 8 (Decent Work & Economic Growth) for **Irela
 
 ## Data source
 World Bank — *World Development Indicators (WDI)*: https://data.worldbank.org/ [web:54]
+
+## Snapshots of Dashboard.
+## Dashboard Overview
+
+![IrelandVsIndia](images/SDG8 - Ireland vs India vs New zealand_page-0001.jpg)
+
+
+![IrelandVSNew zealand](images/SDG8 - Ireland vs India vs New zealand_page-0002.jpg)
+
+![IrelandVSnz](images/SDG8 - Ireland vs India vs New zealand_page-0003.jpg)
+
+![Description](images/SDG8 - Ireland vs India vs New zealand_page-0004.jpg)
