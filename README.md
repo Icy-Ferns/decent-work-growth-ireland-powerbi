@@ -71,7 +71,7 @@ This project demonstrates practical data analytics skills across the full BI wor
 ## Data source
 World Bank — *World Development Indicators (WDI)*: https://data.worldbank.org/ [web:54]
 
-## Snapshots of Dashboard
+## Snapshots of Dashboard.
 
 ![IrelandVsIndia](images/SDG8%20-%20Ireland%20vs%20India%20vs%20New%20zealand_page-0001.jpg)
 
